@@ -7,8 +7,8 @@ The Open Energy Services Provider Interface (ESPI) Repository  Providing impleme
 Project Documentation:
 <dl>
 <dt><a href="https://github.com/energyos/OpenESPI-wiki/wiki">The Open ESPI Project Wiki</a></dt>
-<dt><a href="http://energyos.github.io/OpenESPI-GreenButtonDeveloper/">Application Developers Guide</a></dt>
-<dt><a href="http://energyos.github.io/OpenESPI-GreenButtonDeveloper/API/">Green Button RESTful APIs</a></dt>
+<dt><a href="http://energyos.github.io/OpenESPI-GreenButton-API-Documentation">Application Developers Guide</a></dt>
+<dt><a href="http://energyos.github.io/OpenESPI-GreenButton-API-Documentation/API/">Green Button RESTful APIs</a></dt>
 </dl>
 </td>
 <td>
